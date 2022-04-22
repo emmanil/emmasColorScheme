@@ -1,2 +1,2 @@
 # emmasColorScheme
-A colorful color scheme, it looks as if a unicorn ran through your code.
+A colorful color scheme in IntelliJ, it looks as if a unicorn ran through your code.
